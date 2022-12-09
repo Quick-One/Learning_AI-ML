@@ -22,5 +22,5 @@
         "batch_size": 32,
         "epochs": 100,
         "hidden_layers" : [512,512,512,512]
-    },
+    }
 }
